@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    <ui:VisualElement name="main-panel" class="bonus-container">
+        <!-- Bonus 1 -->
+        <ui:Button name="bonus1-btn" text="Bonus 1: OFF" />
+        <ui:Label name="bonus1-status" text="Status: Inactive" />
+        
+        <!-- Bonus 2 -->
+        <ui:Button name="bonus2-btn" text="Bonus 2: OFF" />
+        <ui:Label name="bonus2-status" text="Status: Inactive" />
+    </ui:VisualElement>
+</ui:UXML>

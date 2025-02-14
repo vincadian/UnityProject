@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    <ui:VisualElement name="score-container" class="score-panel">
+        <ui:Label name="score-text" text="Score: 0" class="score-display" />
+    </ui:VisualElement>
+</ui:UXML>
